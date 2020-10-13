@@ -16,7 +16,7 @@ Technology Stack
 
 *5. Logging*
 
-*6. Hystrix Circuit breaker"
+*6. Hystrix Circuit breaker*
 
 *7. Testing using Postman, CURL and RESTTemplate*
 
