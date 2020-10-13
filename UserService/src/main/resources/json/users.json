@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Mr",
+    "firstName": "Leanne",
+    "lastName": "Bret",
+	"gender": "male",
+ 	"address": {
+			      "street": "Kulas Light",
+			      "city": "Gwenborough",
+			      "state": "dfdsfs",
+			      "postcode": "92998-3874"
+    }
+  },
+  {
+    "id": 2,
+    "title": "mr",
+    "firstName": "test",
+    "lastName": "tsetlast",
+    "gender": "male",
+    "address": {
+                  "street": "12345 holling rd",
+                  "city": "Sydney",
+                  "state": "nsw",
+                  "postcode": "2000"
+   	 }
+  },
+  {
+    "id": 3,
+    "title": "mrs",
+    "firstName": "Malini",
+    "lastName": "Vaikuntam",
+    "gender": "female",
+    "address": {
+                  "street": "12345 holling rd",
+                  "city": "Sydney",
+                  "state": "nsw",
+                  "postcode": "2000"
+   	 }
+  },
+  {
+    "id": 4,
+    "title": "mr",
+    "firstName": "Geroge",
+    "lastName": "Graham",
+    "gender": "male",
+    "address": {
+                  "street": "12345 polling rd",
+                  "city": "Sydney",
+                  "state": "nsw",
+                  "postcode": "2020"
+   	 }
+  },
+  {
+    "id": 5,
+    "title": "mrs",
+    "firstName": "Serena",
+    "lastName": "Joseph",
+    "gender": "female",
+    "address": {
+                  "street": "12345 rolling rd",
+                  "city": "Sydney",
+                  "state": "nsw",
+                  "postcode": "2020"
+   	 }
+  },
+  {
+    "id": 6,
+    "title": "mrs",
+    "firstName": "Juliet",
+    "lastName": "Davis",
+    "gender": "female",
+    "address": {
+                  "street": "1245 tolling rd",
+                  "city": "Sydney",
+                  "state": "nsw",
+                  "postcode": "2020"
+   	 }
+  }
+]
