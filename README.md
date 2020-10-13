@@ -5,12 +5,21 @@ Description: Procedure to build Microservice application using spring boot and J
 
 
 Technology Stack
-*Spring Boot*
-*Java 11*
-*Spring Security*
-*REST API operations*
-*Logging*
-*Testing using Postman, CURL and RESTTemplate*
+
+*1. Spring Boot*
+
+*2. Java 11*
+
+*3. Spring Security*
+
+*4. REST API operations*
+
+*5. Logging*
+
+*6. Hystrix Circuit breaker"
+
+*7. Testing using Postman, CURL and RESTTemplate*
+
 
 
 
