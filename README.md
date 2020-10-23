@@ -30,12 +30,14 @@ Procedure to build Microservice application using spring boot and JAVA 11
 
 
 *To run your Spring Boot app from a command line in a Terminal window you can use the java -jar command.* 
-
-**java -jar target/UserService 0.0.1-SNAPSHOT.jar**
+```
+java -jar target/UserService 0.0.1-SNAPSHOT.jar
+```
 
 *To run Spring Boot app using Maven, use the below command*
-
-**mvn spring-boot:run**
+```
+mvn spring-boot:run 
+```
 
 ## Documentation
 
